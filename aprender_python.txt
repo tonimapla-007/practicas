@@ -1,0 +1,5 @@
+En python se puede programar aplicaciones de todo tipo,
+se pueden hacer apps para diferentes sistemas operativos.
+    Yo estoy haciendo un curso de python
+con el libro 'curso intensivo de python'
+
